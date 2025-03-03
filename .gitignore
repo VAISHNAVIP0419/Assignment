@@ -1,0 +1,7 @@
+kind
+kubectl
+*.log
+*.swp
+node_modules/
+__pycache__/
+.env
