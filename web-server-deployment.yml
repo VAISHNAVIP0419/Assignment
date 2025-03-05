@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web-server
-        image: your-dockerhub-username/web-server-image:latest
+        image:  vaishnavi2301/project:v1
         ports:
         - containerPort: 80
